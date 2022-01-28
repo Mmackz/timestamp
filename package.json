@@ -3,6 +3,9 @@
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
+   "engines": {
+      "node": "17.4.0"
+   },
 	"scripts": {
 		"start": "node server.js",
 		"dev": "nodemon server.js"
